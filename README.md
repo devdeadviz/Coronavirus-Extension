@@ -1,5 +1,5 @@
 # Coronavirus-Extension
-Coronavirus Extension helps you to remove coronavirus from your webpage completely or in other way it can also help you to focus the word coronavirus.
+Coronavirus Extension helps you to remove coronavirus word from your webpage completely or in other way it can also help you to focus the word coronavirus.
 
 ## Without Enabling Extension
 ![Screenshot from 2021-05-28 19-20-38](https://user-images.githubusercontent.com/54413717/119994043-da8eaa00-bfe9-11eb-850f-423aa3f3aad7.png)
